@@ -1,5 +1,11 @@
 # React-Reservation-Page
 
+## Preview
+![1](https://github.com/user-attachments/assets/f73a91a9-5192-4d83-b041-86b07e2e00e3)
+![2](https://github.com/user-attachments/assets/38470ca2-9ace-461c-a31c-be8ea64109b8)
+
+
+
 ## How to Run
 
 This is a React-based reservation page. Follow these steps to run the project.
